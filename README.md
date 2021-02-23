@@ -29,6 +29,12 @@
 **Unordered Ddata**
 - Introduction
 - Github
+    -git push
+    -git pull
+- Git branch
+  -new branch
+    -merge
+    -check out
 
 
 **Image**
