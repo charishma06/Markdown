@@ -14,7 +14,7 @@
 
 **ORDERED DATA**
 
-1. version contrl
+1. version control
     a. types
 2. git & github
 3. git intro
